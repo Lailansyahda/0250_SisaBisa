@@ -7,4 +7,31 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Color -->
+    <color name="green_primary">#388E3C</color>
+    <color name="green_dark">#2E7D32</color>
+    <color name="green_light">#A5D6A7</color>
+
+    <!-- Secondary Color -->
+    <color name="orange_secondary">#FF9800</color>
+    <color name="orange_light">#FFE0B2</color>
+
+    <!-- Background & Surface -->
+    <color name="background_color">#F7F9F5</color>
+    <color name="surface_color">#FFFFFF</color>
+
+    <!-- Text Color -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Stock Status -->
+    <color name="stock_normal">#388E3C</color>
+    <color name="stock_warning">#FFA000</color>
+    <color name="stock_expired">#D32F2F</color>
+
+    <!-- Other -->
+    <color name="border_color">#E0E0E0</color>
+    <color name="disabled_color">#BDBDBD</color>
 </resources>
