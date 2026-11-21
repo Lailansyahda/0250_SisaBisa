@@ -1,3 +1,55 @@
 <resources>
     <string name="app_name">SisaBisa</string>
+
+    <!-- Home -->
+    <string name="welcome">Selamat datang di SisaBisa</string>
+    <string name="home_description">Kelola bahan makanan dan temukan resep berdasarkan stok yang tersedia.</string>
+
+    <!-- Menu -->
+    <string name="menu_categories">Kategori Bahan</string>
+    <string name="menu_ingredients">Daftar Bahan</string>
+    <string name="menu_stock">Manajemen Stok</string>
+    <string name="menu_recipes">Rekomendasi Resep</string>
+    <string name="menu_favorites">Resep Favorit</string>
+
+    <!-- Description -->
+    <string name="description_categories">Kelola kategori bahan makanan</string>
+    <string name="description_ingredients">Lihat dan kelola bahan makanan</string>
+    <string name="description_stock">Pantau jumlah stok dan tanggal kedaluwarsa</string>
+    <string name="description_recipes">Cari resep berdasarkan bahan yang tersedia</string>
+    <string name="description_favorites">Lihat resep yang telah disimpan</string>
+
+    <!-- Button -->
+    <string name="button_open">Buka</string>
+    <string name="button_add">Tambah</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_delete">Hapus</string>
+    <string name="button_cancel">Batal</string>
+    <string name="button_back">Kembali</string>
+    <string name="button_search">Cari</string>
+
+    <!-- Ingredient -->
+    <string name="ingredient_name">Nama Bahan</string>
+    <string name="ingredient_category">Kategori</string>
+    <string name="ingredient_unit">Satuan</string>
+    <string name="ingredient_quantity">Jumlah Stok</string>
+    <string name="ingredient_expiry">Tanggal Kedaluwarsa</string>
+    <string name="ingredient_received_date">Tanggal Diterima</string>
+
+    <!-- Stock Status -->
+    <string name="stock_normal">Normal</string>
+    <string name="stock_soon_expired">Segera Kedaluwarsa</string>
+    <string name="stock_expired">Kedaluwarsa</string>
+
+    <!-- Recipe -->
+    <string name="recipe_search">Cari Resep</string>
+    <string name="recipe_favorite">Favorit</string>
+    <string name="recipe_ingredients">Bahan Resep</string>
+    <string name="recipe_instructions">Cara Memasak</string>
+
+    <!-- General -->
+    <string name="empty_data">Belum ada data</string>
+    <string name="error_message">Terjadi kesalahan</string>
+    <string name="loading">Memuat data...</string>
 </resources>
